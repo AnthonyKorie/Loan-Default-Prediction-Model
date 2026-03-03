@@ -238,13 +238,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Financial risk modeling based on industry best practices
 - Inspired by real-world credit risk assessment challenges
 
-##  Support
-
-For support and questions:
--  Email: stevenk710@gmail.com
-- GitHub Issues: [Create an issue](https://github.com/kamaumbugua-dev/loan-default-prediction/issues)
--  Twitter: [@fahari_dubu](https://twitter.com/fahari_dubu)
-
 ##  Future Enhancements
 
 - [ ] Additional machine learning models (Random Forest, XGBoost)
